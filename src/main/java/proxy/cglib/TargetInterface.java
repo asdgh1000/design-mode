@@ -1,4 +1,4 @@
-package proxy.jdkProxy;
+package proxy.cglib;
 
 /**
  * @author ltw

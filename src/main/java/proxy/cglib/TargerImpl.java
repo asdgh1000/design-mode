@@ -1,4 +1,4 @@
-package proxy.jdkProxy;
+package proxy.cglib;
 
 /** @author ltw on 10/10/2018. */
 public class TargerImpl implements TargetInterface {
